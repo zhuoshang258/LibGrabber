@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(DialogInterface d, int w) {
                 Intent i = new Intent(Settings.ACTION_MANAGE_APP_ALL_FILES_ACCESS_PERMISSION);
-                i.setData(Uri.parse("package --> " + getPackageName()));
+                i.setData(Uri.parse("package:" + getPackageName()));
                 startActivity(i);
                 d.dismiss();
             }
