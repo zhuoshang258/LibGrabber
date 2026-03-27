@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22.1)
 
-project("libgrabber")
+project("grabber")
 
 add_library(${CMAKE_PROJECT_NAME} SHARED
     grabber.cpp
