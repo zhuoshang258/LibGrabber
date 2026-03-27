@@ -1,8 +1,6 @@
 # LibGrabber
 
-
-| <img src="app/src/main/ic_launcher-playstore.png" width = "30" height = "30" alt="LOGO"/> | [LibGrabber](https://github.com/ispointer/LibGrabber) |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+<img src="app/src/main/ic_launcher-playstore.png" width = "100" height = "100" alt="LOGO"/>
 
 LibGrabber 1.0 is an Android tool designed to Dump lib sdk  || External Working...!
 
@@ -17,6 +15,9 @@ logic from the following open-source repositories:
 
 LibGrabber is a powerful Android application designed to parse, analyze, and dump symbol tables from shared object .so files. It extracts function names, variable names, and other exported symbols from native libraries, generating comprehensive C++ header files for reverse engineering, analysis, and development purposes
 
+
+| <img src="app/src/main/ic_launcher-playstore.png" width = "30" height = "30" alt="LOGO"/> | [LibGrabber](https://github.com/ispointer/LibGrabber) |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 
 ## Screenshots
 | App UI                                                                 | Dump Style                                                                    |
