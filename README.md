@@ -17,7 +17,7 @@ LibGrabber is a powerful Android application designed to parse, analyze, and dum
 ## Screenshots
 | App UI                                                                 | Dump Style                                                                    |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![App UI](images/im1.png) | ![Dump Style](images/im2.png) |
+| ![App UI](images/im1.jpg) | ![Dump Style](images/im2.jpg) |
 
 ## License
 
